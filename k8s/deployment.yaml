@@ -21,7 +21,7 @@ spec:
     spec:
       containers:
         - name: hiring-app
-          image: chvkarthik/hiring-app:3
+          image: chvkarthik/hiring-app:4
           imagePullPolicy: Always
 
           ports:
